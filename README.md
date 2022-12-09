@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dorahoffmann
 - 👀 I’m interested in front end and interaction design
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on apps, websites
+- 💞️ I’m looking to collaborate on apps, websites, design and front end
 - 📫 How to reach me: dora.hoffmann@gmail.com
 
 <!---
